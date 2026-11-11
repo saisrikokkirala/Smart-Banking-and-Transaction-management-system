@@ -1,0 +1,7 @@
+target/
+.idea/
+.vscode/
+.DS_Store
+*.class
+data/SmartBank.xlsx
+data/SmartBank.tmp.xlsx
